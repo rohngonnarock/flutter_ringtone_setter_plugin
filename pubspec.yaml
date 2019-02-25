@@ -1,8 +1,8 @@
 name: ringtone_setter
 description: A new flutter plugin project.
 version: 0.0.1
-author:
-homepage:
+author: Rahul Prajapati <rohngonnarock@gmail.com>
+homepage: https://github.com/rohngonnarock/flutter_ringtone_setter_plugin
 
 environment:
   sdk: ">=2.0.0-dev.68.0 <3.0.0"
